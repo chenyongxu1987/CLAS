@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+Pillow
+opencv-python
+six
+nltk
+datasets
+kagglehub
